@@ -1,0 +1,10 @@
+C:\Users\CCA017\source\repos\EncodeImageForm\EncodeImageForm\bin\Debug\EncodeImageForm.exe.config
+C:\Users\CCA017\source\repos\EncodeImageForm\EncodeImageForm\bin\Debug\EncodeImageForm.exe
+C:\Users\CCA017\source\repos\EncodeImageForm\EncodeImageForm\bin\Debug\EncodeImageForm.pdb
+C:\Users\CCA017\source\repos\EncodeImageForm\EncodeImageForm\obj\Debug\EncodeImageForm.csprojResolveAssemblyReference.cache
+C:\Users\CCA017\source\repos\EncodeImageForm\EncodeImageForm\obj\Debug\EncodeImageForm.Form1.resources
+C:\Users\CCA017\source\repos\EncodeImageForm\EncodeImageForm\obj\Debug\EncodeImageForm.Properties.Resources.resources
+C:\Users\CCA017\source\repos\EncodeImageForm\EncodeImageForm\obj\Debug\EncodeImageForm.csproj.GenerateResource.Cache
+C:\Users\CCA017\source\repos\EncodeImageForm\EncodeImageForm\obj\Debug\EncodeImageForm.csproj.CoreCompileInputs.cache
+C:\Users\CCA017\source\repos\EncodeImageForm\EncodeImageForm\obj\Debug\EncodeImageForm.exe
+C:\Users\CCA017\source\repos\EncodeImageForm\EncodeImageForm\obj\Debug\EncodeImageForm.pdb

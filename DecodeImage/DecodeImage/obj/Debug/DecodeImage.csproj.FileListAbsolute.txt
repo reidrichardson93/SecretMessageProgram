@@ -1,0 +1,10 @@
+c:\users\cca017\source\repos\DecodeImage\DecodeImage\bin\Debug\DecodeImage.exe.config
+c:\users\cca017\source\repos\DecodeImage\DecodeImage\bin\Debug\DecodeImage.exe
+c:\users\cca017\source\repos\DecodeImage\DecodeImage\bin\Debug\DecodeImage.pdb
+c:\users\cca017\source\repos\DecodeImage\DecodeImage\obj\Debug\DecodeImage.csprojResolveAssemblyReference.cache
+c:\users\cca017\source\repos\DecodeImage\DecodeImage\obj\Debug\DecodeImage.Form1.resources
+c:\users\cca017\source\repos\DecodeImage\DecodeImage\obj\Debug\DecodeImage.Properties.Resources.resources
+c:\users\cca017\source\repos\DecodeImage\DecodeImage\obj\Debug\DecodeImage.csproj.GenerateResource.Cache
+c:\users\cca017\source\repos\DecodeImage\DecodeImage\obj\Debug\DecodeImage.csproj.CoreCompileInputs.cache
+c:\users\cca017\source\repos\DecodeImage\DecodeImage\obj\Debug\DecodeImage.exe
+c:\users\cca017\source\repos\DecodeImage\DecodeImage\obj\Debug\DecodeImage.pdb
